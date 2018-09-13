@@ -1,0 +1,1 @@
+console.log('b.js中的文件被读取了')
